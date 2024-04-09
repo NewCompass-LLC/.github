@@ -1,4 +1,4 @@
-## Welcome to Newcompass LLC 👋
+## Newcompass LLC 👋
 
 🙋‍♀️ Our company was established in 2009 and operates in the field of system integration, banking equipment solutions, organization automation solutions, equipment sales and services for all types of service organizations, their software development, and the provision of necessary services for them.
 
